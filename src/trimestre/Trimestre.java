@@ -24,6 +24,7 @@ public class Trimestre {
                 break;
             case 7,8,9:
                 System.out.println( " Se encuentra en el tercer trimestre");
+                 break;
             case 10, 11, 12:
                 System.out.println( " Se encuentra en el cuarto trimestre");
                 break;
