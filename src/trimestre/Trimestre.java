@@ -17,15 +17,15 @@ public class Trimestre {
       
         switch (numero) {
             case 1,2,3:
-                System.out.println( " Se encuntra en el primer trimestre");
+                System.out.println( " Se encuentra en el primer trimestre");
                 break;
             case 4,5,6:
-                System.out.println( " Se encuntra en el segundo trimestre");
+                System.out.println( " Se encuentra en el segundo trimestre");
                 break;
             case 7,8,9:
-                System.out.println( " Se encuntra en el tercer trimestre");
+                System.out.println( " Se encuentra en el tercer trimestre");
             case 10, 11, 12:
-                System.out.println( " Se encuntra en el cuarto trimestre");
+                System.out.println( " Se encuentra en el cuarto trimestre");
                 break;
 
             default:
