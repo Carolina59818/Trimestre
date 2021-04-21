@@ -9,7 +9,7 @@ public class Trimestre {
         // Crear un metodo que lea un valor entero del 1 al 12 valide el valor 
         //y  nos diga en que trimestre del año nos encontramos (Primer trimestre, Segundo Trimestre, Tercer Trimeste, Cuarto Trimestre)
         Scanner entrada = new Scanner(System.in); 
-        System.out.println("Ingrese un numero del 1 al 12 para saber en que semestre se encuentra = ");
+        System.out.println("Ingrese un numero del 1 al 12 para saber en que trimestre se encuentra: ");
 
         int numero;
                 
